@@ -1,6 +1,6 @@
 from pynput.keyboard import Key, Controller, Listener
 
-# import time
+
 keyboard = Controller()
 
 keys = []
